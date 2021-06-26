@@ -8,6 +8,7 @@
       "lastName": "Hayrapetyan",
       "password": "1234",
       "age": 30,
+      "img_url": "https://i.pinimg.com/736x/a9/32/cb/a932cb605eb09bff88b88fdf1c3ef8aa.jpg",
       "login": false
     },
     {
@@ -18,6 +19,7 @@
       "lastName": "Nahapetyan",
       "password": "0000",
       "age": 22,
+      "img_url": "https://videohive.img.customer.envatousercontent.com/files/60d5a785-a712-4282-a060-82e5050109f5/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=b46079de3e1c644f517a343c931ba4c9",
       "login": false
     },
     {
@@ -27,6 +29,7 @@
       "firstName": "Liana",
       "lastName": "Karapetyan",
       "password": "0000",
+      "img_url": "https://i.pinimg.com/564x/2f/07/f3/2f07f309eb6b68b5c50169d7adf7ae4d.jpg",
       "age": 35,
       "login": false
     },
@@ -38,6 +41,7 @@
       "lastName": "Arsenyan",
       "password": "0000",
       "age": 29,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwSu2Rwekv4ZyrxRwJoO0TBzMsHgfdlSyFY_tfuR1qN28DPsP1TmQeHpXKaRsI3Oi2zY&usqp=CAU",
       "login": false
     },
     {
@@ -48,6 +52,7 @@
       "lastName": "Voskanyan",
       "password": "0000",
       "age": 24,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJT9wUb4xdMODPUxy_frRoHe7A9h6Dqif2-FKp8xc7kyUKzWrsF8BkobtNna5MSTAaRe0&usqp=CAU",
       "login": false
     },
     {
@@ -58,6 +63,7 @@
       "lastName": "Sahakyan",
       "password": "0000",
       "age": 35,
+      "img_url": "https://i.pinimg.com/originals/49/2b/d1/492bd1348cecf8cfb9c22e9c1dba1f61.jpg",
       "login": false
     },
     {
@@ -68,6 +74,7 @@
       "lastName": "Avetisyan",
       "password": "0000",
       "age": 37,
+      "img_url": "https://i.pinimg.com/originals/ca/2e/0c/ca2e0c9ca66cfc3d8bb9cb0f443f0ab4.jpg",
       "login": false
     },
     {
@@ -78,6 +85,7 @@
       "lastName": "Poghosyan",
       "password": "0000",
       "age": 29,
+      "img_url": "https://i.pinimg.com/originals/ed/bf/9b/edbf9b10e6d524e6414a27146cfb2360.jpg",
       "login": false
     }
   ]
