@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Armine",
+      "email": "armine@gmail.com",
+      "firstName": "Armine",
+      "lastName": "Hayrapetyan",
+      "password": "1234",
+      "age": 30,
+      "login": false
+    },
+    {
+      "id": 2,
+      "username": "Armen",
+      "email": "armen@gmail.com",
+      "firstName": "Armen",
+      "lastName": "Nahapetyan",
+      "password": "0000",
+      "age": 22,
+      "login": false
+    },
+    {
+      "id": 3,
+      "username": "Liana",
+      "email": "liana@gmail.com",
+      "firstName": "Liana",
+      "lastName": "Karapetyan",
+      "password": "0000",
+      "age": 35,
+      "login": false
+    },
+    {
+      "id": 4,
+      "username": "Karen",
+      "email": "karen@gmail.com",
+      "firstName": "Karen",
+      "lastName": "Arsenyan",
+      "password": "0000",
+      "age": 29,
+      "login": false
+    },
+    {
+      "id": 5,
+      "username": "Lusine",
+      "email": "lusine@gmail.com",
+      "firstName": "Lusine",
+      "lastName": "Voskanyan",
+      "password": "0000",
+      "age": 24,
+      "login": false
+    },
+    {
+      "id": 6,
+      "username": "Vardan",
+      "email": "vardan@gmail.com",
+      "firstName": "Vardan",
+      "lastName": "Sahakyan",
+      "password": "0000",
+      "age": 35,
+      "login": false
+    },
+    {
+      "id": 7,
+      "username": "Narek",
+      "email": "narek@gmail.com",
+      "firstName": "Narek",
+      "lastName": "Avetisyan",
+      "password": "0000",
+      "age": 37,
+      "login": false
+    },
+    {
+      "id": 8,
+      "username": "Vahan",
+      "email": "vahan@gmail.com",
+      "firstName": "Vahan",
+      "lastName": "Poghosyan",
+      "password": "0000",
+      "age": 29,
+      "login": false
+    }
+  ]
+}
